@@ -8,7 +8,7 @@ Eu me chamo Weston Barros , sou um Programador Front End, com conhecimentos adqu
 <br/>
 <br/>
 <br/>
-<img src="https://github.com/WestonBarros/PROJETO-SORTEIO/blob/main/Captura%20de%20tela%202025-11-10%20111023.png?raw=true" alt="logo-dados"/>
+<img src="img/Papel de parede  ilustrado com flores e frase motivacional minimalista rosa e branco (1).png"/>
 <br/>
 <br/>
 <br/>
